@@ -344,8 +344,6 @@ table {
 
 /* ==========================================================================
  * CSS SETTING
- * by Hiroaki WAKATSUKI
- * Converted 2014/2/16
  * ========================================================================== */
 *,
 *:before,
@@ -638,7 +636,7 @@ ul li {
 body,
 html {
   height: 100%;
-  background-color: #f5f5f3;
+  background-color: skyblue
 }
 
 body {
